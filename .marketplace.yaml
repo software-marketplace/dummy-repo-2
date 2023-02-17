@@ -1,6 +1,6 @@
 {
-  "name": "dummy-repo-01",
-  "description": "This is dummy repo 2. It is used to showcase the new config file feature.",
+  "name": "dummy-repo-001",
+  "description": "HEH This is dummy repo 2. It is used to showcase the new config file feature.",
   "images": [
     "img/test35"
   ],
