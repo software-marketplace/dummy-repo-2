@@ -1,5 +1,5 @@
 {
-  "name": "dummy-repo-0023dfsdf",
+  "name": "dummy-repo",
   "description": "This is dummy repo 2. It is used to showcase the new config file feature.",
   "images": [ "img/test35" ],
   "tags": [ "LMS" ]
